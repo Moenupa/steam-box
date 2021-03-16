@@ -26,11 +26,11 @@ English | [简体中文](./README_zh.md)
 1. Create a token with the `gist` scope and copy it. (https://github.com/settings/tokens/new)
 1. Create a Steam  API key. (https://steamcommunity.com/dev/apikey)
 1. Find the steam ID (steamID64) of your account. (https://steamid.io)
-1. For updating a markdown file，add comments to the place where you want to update in the markdown file.
+1. For updating a markdown file, add comments to the place where you want to update in the markdown file.
+
    ```markdown
     <!-- steam-box start -->
     <!-- steam-box end -->
-    
    ```
 
 
@@ -38,7 +38,7 @@ English | [简体中文](./README_zh.md)
 1. Fork this repo
 1. Edit the [environment variable](https://github.com/YouEclipse/steam-box/actions/runs/126970182/workflow#L17-L19) in `.github/workflows/schedule.yml`:
 
-> For updating github profile README,you can follow [steam-box.yml](https://github.com/YouEclipse/YouEclipse/blob/master/.github/workflows/steam-box.yml) in [YouEclipse](https://github.com/YouEclipse/YouEclipse) to create a Action in your README repo.Remember it's unsafe to use token with **`repo`** scope for updating the repo, steam-box update the profile repo using git command in Github Action instead of using github API.
+> For updating github profile README, you can follow [steam-box.yml](https://github.com/YouEclipse/YouEclipse/blob/master/.github/workflows/steam-box.yml) in [YouEclipse](https://github.com/YouEclipse/YouEclipse) to create a Action in your README repo. Remember it's unsafe to use token with **`repo`** scope for updating the repo, steam-box update the profile repo using git command in Github Action instead of using github API.
 
    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/YouEclipse/`**`9bc7025496e478f439b9cd43eba989a4`**.
 
@@ -49,7 +49,7 @@ English | [简体中文](./README_zh.md)
    - **STEAM_ID:** The steam ID of your account. 
 1. If you want to show specific games,put the ids in environmet variable **APP_ID**:
    - like `APP_ID=431960,730`
-   - you can get the id of a game from the store url: `https://store.steampowered.com/app/`**730**`/CounterStrike_Global_Offensive/`
+   - you can get the id of a game from the store url: `https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/`
 
 ## 🕵️ How it works
 - Get your games playtime from [Steamwork Web API](https://partner.steamgames.com/doc/webapi) 
