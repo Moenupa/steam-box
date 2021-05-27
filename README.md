@@ -30,7 +30,16 @@ English | [简体中文](./README_zh.md)
 
    ```markdown
     <!-- steam-box start -->
-    <!-- steam-box end -->
+#### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Dyson Sphere Program             🕘 156 hrs 0 mins
+💻 Wallpaper Engine                 🕘 143 hrs 0 mins
+🎮 变量 - Variables                 🕘 119 hrs 28 mins
+🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
+🎮 Bloons TD 6                      🕘 52 hrs 25 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
    ```
 
 
