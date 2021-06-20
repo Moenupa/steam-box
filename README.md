@@ -32,7 +32,7 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/dd5e2c295036bcfa7251a8dfe5facabc" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Dyson Sphere Program             🕘 308 hrs 6 mins
+🎮 Dyson Sphere Program             🕘 310 hrs 36 mins
 💻 Wallpaper Engine                 🕘 147 hrs 1 mins
 🎮 变量 - Variables                 🕘 119 hrs 28 mins
 🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
