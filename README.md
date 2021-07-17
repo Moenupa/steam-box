@@ -34,7 +34,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🎮 Dyson Sphere Program             🕘 356 hrs 57 mins
 💻 Wallpaper Engine                 🕘 147 hrs 28 mins
-🎮 变量 - Variables                 🕘 119 hrs 28 mins
+🎮 变量 - Variables                 🕘 119 hrs 29 mins
 🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
 🎮 Bloons TD 6                      🕘 58 hrs 21 mins
 ```
