@@ -36,7 +36,7 @@ English | [简体中文](./README_zh.md)
 💻 Wallpaper Engine                 🕘 147 hrs 56 mins
 🎮 变量 - Variables                 🕘 119 hrs 29 mins
 🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
-🎮 Bloons TD 6                      🕘 61 hrs 15 mins
+🎮 Bloons TD 6                      🕘 62 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
