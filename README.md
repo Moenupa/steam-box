@@ -35,8 +35,8 @@ English | [简体中文](./README_zh.md)
 🎮 Dyson Sphere Program             🕘 379 hrs 19 mins
 💻 Wallpaper Engine                 🕘 147 hrs 56 mins
 🎮 变量 - Variables                 🕘 119 hrs 29 mins
-🎮 Sid Meier's Civilization VI      🕘 88 hrs 36 mins
-🎮 Bloons TD 6                      🕘 64 hrs 10 mins
+🎮 Sid Meier's Civilization VI      🕘 92 hrs 9 mins
+🎮 Bloons TD 6                      🕘 65 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
